@@ -1,10 +1,10 @@
 function SayHello () {
-    console.log("Hello World");
+    console.log("Holis Cohorte 9 y Cohorte 10");
 }
 
 
 function SayGoodbye () {
-    console.log("Goodbye World")
+    console.log("Hasta la vivasta, baby.")
 }
 
 
